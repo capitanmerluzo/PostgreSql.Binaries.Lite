@@ -25,7 +25,4 @@
         <copyright>mihasic 2017</copyright>
         <tags>postgresql x64</tags>
     </metadata>
-    <files>
-        <file src="*.zip" target="content" />
-    </files>
 </package>
